@@ -1,8 +1,6 @@
 {
   "files": [],
-  "templaterFiles": [
-    "mini-templates/codeSnippet.md"
-  ],
+  "templaterFiles": [],
   "newFileTemplates": [],
   "openNewFileTemplateInNewPane": true,
   "useNewFileTemplateOnFileCreation": true
