@@ -1,0 +1,13 @@
+{
+  "baseFontSize": 16,
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "dashboard",
+    "dashboard-ReadLineLength",
+    "titles&headers",
+    "backgrounds",
+    "admonition"
+  ],
+  "theme": "obsidian",
+  "accentColor": "#aa2bca"
+}

@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "d353772624cebe75",
+    "type": "split",
+    "children": [
+      {
+        "id": "76c0efe3763aec16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f4f512058f4ce0b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "42bf9280c11f2a5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b12c8a84d26a32d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0d60735573386f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "40d21c2632e07b7f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "#shopping",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fb9956fe647de07a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "83ac81eba215c268",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 290.5
+  },
+  "right": {
+    "id": "c8a13d38502f2423",
+    "type": "split",
+    "children": [
+      {
+        "id": "86f80c5fb61f56df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01c06e010e844738",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5a5fa2e51236c09d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "3cd5d9164aa854ae",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 353.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "copilot:Copilot Chat": false,
+      "cmdr:Command palette: Open command palette": false,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "command-palette:Open command palette": true,
+      "cmdr: Insert New Note": false,
+      "obsidian-audio-notes:Quick Audio Note with Transcription": false,
+      "companion:Toggle completion": true,
+      "homepage:Open homepage": false,
+      "obsidian-rich-links:Rich Links": true,
+      "templater-obsidian:Templater": false,
+      "cmdr:Quick switcher: Open quick switcher": false,
+      "cmdr:Copilot: Toggle Copilot Chat Window": false,
+      "cmdr:Obsidian Git: Pull": false,
+      "cmdr:Obsidian Git: Open diff view": false,
+      "cmdr:Commander: git upload": false
+    }
+  },
+  "active": "e0d60735573386f5",
+  "lastOpenFiles": [
+    "Notes/ssssss.md",
+    "Notes/Untitled.md",
+    "Dashboard++.md",
+    "Notes/Untitled 1.md",
+    "Templates/Full Templates",
+    "Templates/Full Templates/Note Template.md",
+    "Templates/banners/default-banner.png",
+    "Templates/banners/banner-landing-page.jpg",
+    "Notes/meh.md",
+    "Notes/nota ejemplo.md",
+    "README.md",
+    "Templates/mini-templates/codeSnippet.md",
+    "Images/home.jpg",
+    "Templates/mini-templates/ThemeTitle.md",
+    "Notes/ssas.md",
+    "Images/Pasted image 20230507204541.png",
+    "Notes/ejemplo.md",
+    "Templates/mini-templates",
+    "Templates/banners",
+    "Notes/5 ways to love PKM.md",
+    "Landing Page.md",
+    "Work/Budget/Q4 2022.md",
+    "Work/Budget/Q3 2022.md",
+    "Work/Projects/Cloud backup.md",
+    "Work/Projects/IT Cybersecurity training.md",
+    "Personal Projects/Remodeling/Research building Garage.md",
+    "Family/Vacations/Austria.md",
+    "Family/Recipes/Spicy-Sweet Buffalo Popcorn.md",
+    "images/banner-landing-page.jpg.crdownload",
+    "Family/Objectives/Family Recipes.md",
+    "Images/Kitchen.jpeg",
+    "Images/Smores.jpeg",
+    "Images/Spicy popcorn.jpeg",
+    "Images/YouTubeFromSergio.png",
+    "Personal Projects/Remodeling/Paint entryway.md",
+    "Personal Projects/Remodeling/Bathroom Remodel.md",
+    "Family/Guests/Guest list.md",
+    "Family/Objectives/Yearly Budget.md",
+    "Research/Untitled",
+    "Research"
+  ]
+}
